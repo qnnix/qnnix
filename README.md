@@ -15,7 +15,7 @@
 >
 > <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,css,nodejs,py,html"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 >
 > <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ae,vscode,discord" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ps,lr,pr,ae,xd,burpsuite,vscode,discord" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 >
 > <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=windows,linux"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,apple"/>
   </a>
 </p>
 
