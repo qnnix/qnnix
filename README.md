@@ -5,9 +5,9 @@
 >🌱 Always learning new things in dev, design, and sound
 
  ### ☁️ Hobbies 
-> - 🎶 Music Producer (FL Studio addict)  
-> - 🎨 Graphic Designer (Photoshop, Illustrator, After Effects, you name it)
-> - 💻 Tech Savvy
+>🎶 Music Producer (FL Studio addict)  
+>🎨 Graphic Designer (Photoshop, Illustrator, After Effects, you name it)
+>💻 Tech Savvy
 >
 
 ### 🔧 Skills
